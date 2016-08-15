@@ -1,4 +1,4 @@
-AddressableModel for Laravel 5
+AddressableTrait for Laravel 5
 ==============================
 
 This adds methods to format addresses and phone numbers to an Eloquent model in [**Laravel 5**](http://laravel.com/).  It also adds geocoding functionality using [GeocoderLaravel](https://github.com/geocoder-php/GeocoderLaravel).
